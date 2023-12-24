@@ -1,6 +1,6 @@
 # 😎 Awesome List of SaaS Boilerplates and SaaS Starter Kits, Updated Weekly
 
-These boilerplates contain UI components, database connection, user authorization and more, saving you weeks or even months. 
+These boilerplates contain UI components, a database connection, user authorization, and more, saving you weeks or even months before you make your startup profitable.
 
 The paid boilerplaites (💰) are generally more maintained, documented and provide a more comprehensive solutions (saving you much more time). You also support the ongoing development and the creators themselves. **These are not just UI templates and require significantly more effort.**
 
